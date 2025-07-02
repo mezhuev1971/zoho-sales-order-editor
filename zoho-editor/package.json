@@ -1,0 +1,7 @@
+{
+  "name": "zoho-editor",
+  "version": "1.0.0",
+  "description": "Zoho Sales Order Editor",
+  "main": "src/main.js",
+  "dependencies": {}
+}
